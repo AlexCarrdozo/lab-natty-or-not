@@ -23,20 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Título: "Além da Inteligência: Explorando o Mundo da Inteligência Artificial"
+
+Duração do episódio: Aproximadamente 30 minutos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa [ChatGPT](https://chatgpt.com/?oai-dm=1) para roteirização e revisão;
+IA Generativa [ElevenLabs](https://www.elevenlabs.io/) para clonagem e sintetização de voz;
+[Descrição](https://www.descript.com/) do software para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
 ### Exemplos e Insigths
 
